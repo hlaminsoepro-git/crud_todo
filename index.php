@@ -14,7 +14,7 @@ require 'config.php';
 
 <body>
     <div class="container mt-3">
-        <h2>Dark Striped Table</h2><br>
+        <h2>TODO Table</h2><br>
         <div>
             <a href="add.php" class="btn btn-primary">Create +</a>
         </div><br>
