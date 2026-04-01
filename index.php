@@ -20,6 +20,7 @@ require 'config.php';
         </div><br>
         <table class="table table-dark table-striped">
             <tr>
+                <!-- Add another column for the table. Deadline PLEASE -->
                 <th>Id</th>
                 <th>Title</th>
                 <th>Descripiton</th>
